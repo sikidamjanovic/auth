@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/ios/build/auth/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/ios/build/auth/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/ios/build/auth/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/ios/build/auth/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/sikidamjanovic/Documents/GitHub/auth/node_modules/react-native/React/Base/RCTAssert.h
